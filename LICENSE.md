@@ -1,4 +1,4 @@
-#  
+#  advanced ink game Script offers the most advanced ink game Script, with custom skins and invisibility. Perfect for dominating any match.
 
 
 
